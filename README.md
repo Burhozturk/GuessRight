@@ -1,1 +1,2 @@
 # GuessRight
+#Gæt rigtigt.
